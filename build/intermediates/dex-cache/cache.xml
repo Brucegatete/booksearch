@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/brucegatete/project/android-booksearch-exercise/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/Users/brucegatete/project/android-booksearch-exercise/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.3.1_f90cfe2cc34ca2e2254279f55e89ffd643db4337.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/brucegatete/project/android-booksearch-exercise/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/Users/brucegatete/project/android-booksearch-exercise/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.3.1_df86f3123075f9e0cd1bb998d3a6e651fd906c20.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/brucegatete/project/android-booksearch-exercise/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/Users/brucegatete/project/android-booksearch-exercise/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.3.1_18e03bfa660baa872c9d531272f57129606cbc7f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/brucegatete/project/android-booksearch-exercise/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/Users/brucegatete/project/android-booksearch-exercise/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.3.1_01d11d6196852fa0cc53bcd00e2fad74a385894a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/brucegatete/.gradle/caches/modules-2/files-2.1/com.loopj.android/android-async-http/1.4.9/386a4339ffe52d5d63e80f9bed8d2b1d1a418249/android-async-http-1.4.9.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="386a4339ffe52d5d63e80f9bed8d2b1d1a418249">
+        <dex dex="/Users/brucegatete/project/android-booksearch-exercise/app/build/intermediates/pre-dexed/debug/android-async-http-1.4.9_1000a62110eca6aa6cc1cb8df6719c515339faf9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/brucegatete/.gradle/caches/modules-2/files-2.1/cz.msebera.android/httpclient/4.3.6/526a9f794eab830eae4f23a62c572878b3f491ab/httpclient-4.3.6.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="526a9f794eab830eae4f23a62c572878b3f491ab">
+        <dex dex="/Users/brucegatete/project/android-booksearch-exercise/app/build/intermediates/pre-dexed/debug/httpclient-4.3.6_8bd92ffd0540079200b0ef4bcfa37ecb672b4680.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/brucegatete/project/android-booksearch-exercise/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/Users/brucegatete/project/android-booksearch-exercise/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.3.1_bcee99733b5288bf6201394944bb01f412160427.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/brucegatete/project/android-booksearch-exercise/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/Users/brucegatete/project/android-booksearch-exercise/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.3.1_6a316b0f62489a51b6fd3890a78ba4f7ba84bec2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/brucegatete/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/Users/brucegatete/project/android-booksearch-exercise/app/build/intermediates/pre-dexed/debug/support-annotations-25.3.1_266ed78b2c4b203a2fe093fe5f8ab4696a7fc90b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/brucegatete/project/android-booksearch-exercise/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/brucegatete/project/android-booksearch-exercise/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.3.1_333afefaf771330387de5f4a3ab89732b7b4ee92.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/brucegatete/project/android-booksearch-exercise/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/Users/brucegatete/project/android-booksearch-exercise/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.3.1_ddc77a5c6f8dce6094d757cbd4f3d2510d34b066.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/brucegatete/project/android-booksearch-exercise/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="/Users/brucegatete/project/android-booksearch-exercise/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-25.3.1_b6faa7833cf72c4410a10e3302aeb9fb5d1c4013.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/brucegatete/project/android-booksearch-exercise/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/Users/brucegatete/project/android-booksearch-exercise/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.3.1_8df8e92762bf570a81feb630884fa8cbaa0f7b92.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/brucegatete/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.8.0/9bada650e1afe9c6174ddc0d113c1fce4dc26fe0/glide-3.8.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="9bada650e1afe9c6174ddc0d113c1fce4dc26fe0">
+        <dex dex="/Users/brucegatete/project/android-booksearch-exercise/app/build/intermediates/pre-dexed/debug/glide-3.8.0_3c5752e44dd3bee3b6969ab9c568c6cea0230a6a.jar" />
+    </item>
+
+</items>
